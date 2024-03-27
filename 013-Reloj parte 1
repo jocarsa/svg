@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>svg{border:1px solid grey;}</style>
+    </head>
+    <body>
+        <svg width="512" height="512" xmlns="https://www.w3.org/2000/svg">
+            <text x="20" y="200" fill="red" font-size="35">Hola</text>
+        </svg>
+    </body>
+</html>
